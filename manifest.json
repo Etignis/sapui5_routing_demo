@@ -78,7 +78,7 @@
         },
         {
           "pattern": "catalog",
-          "name": "cataloig",
+          "name": "catalog",
           "target": [
             "menu",
             "catalog"

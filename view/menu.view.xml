@@ -5,6 +5,7 @@
   xmlns:mvc="sap.ui.core.mvc">
 	<Page
 		title="Меню">
+		<!-- Биндим список на свойство модели, в котором хранится массив пунктов меню -->
 		<List
 			items="{main>/mainMenu}"
 			>

@@ -5,6 +5,7 @@
   xmlns:mvc="sap.ui.core.mvc">
 	<Page
 		title="Каталог">
+		<!-- Тут выводится список товаров.ю надо поменять список на набор тайлов. Чтоб было как в настоящих магазинах -->
 		<List
 			id='catalogList'
 			items="{main>/catalog}">

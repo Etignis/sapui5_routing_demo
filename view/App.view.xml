@@ -6,4 +6,5 @@
   <SplitApp 
     id="app"
     class="sapUiSizeCompact" />
+		<!-- Это главная вьюшка. Тут ничего менять/добавлять не требуется -->
 </mvc:View>
