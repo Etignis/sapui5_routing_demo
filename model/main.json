@@ -1,0 +1,44 @@
+{
+	"types": [
+		{
+			"id": "monitor",
+			"nav": {
+				"rout": "category",
+				"params": {
+					"category": "monitor"
+				}
+			},
+			"title": "Мониторы"
+		},
+		{
+			"id": "keybord",
+			"nav": {
+				"rout": "category",
+				"params": {
+					"category": "keybord"
+				}
+			},
+			"title": "Клавиатуры"
+		}
+	],
+	"catalog": [
+		{
+			"type": "monitor",
+			"title": "Acer102",
+			"price": 123,
+			"quontity": 567
+		},
+		{
+			"type": "monitor",
+			"title": "Asus 123",
+			"price": 234,
+			"quontity": 123
+		},
+		{
+			"type": "keybord",
+			"title": "Asus asd",
+			"price": 12,
+			"quontity": 45
+		}
+	]
+}
